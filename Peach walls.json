@@ -1,0 +1,74 @@
+{
+	"wallpapers": [
+		{
+			"name": "Wall 1",
+			"author": "Osum Walls",
+			"url": "https://raw.githubusercontent.com/Salocin17/Slup/master/Wall 1.png",
+			"dimensions": "1079 x 1887",
+			"copyright": ""
+		},
+		{
+			"name": "Wall 10",
+			"author": "Osum Walls",
+			"url": "https://raw.githubusercontent.com/Salocin17/Slup/master/Wall 10.jpg",
+			"dimensions": "1242 x 2208",
+			"copyright": ""
+		},
+		{
+			"name": "Wall 2",
+			"author": "Osum Walls",
+			"url": "https://raw.githubusercontent.com/Salocin17/Slup/master/Wall 2.png",
+			"dimensions": "1080 x 1920",
+			"copyright": ""
+		},
+		{
+			"name": "Wall 3",
+			"author": "Osum Walls",
+			"url": "https://raw.githubusercontent.com/Salocin17/Slup/master/Wall 3.png",
+			"dimensions": "1080 x 1920",
+			"copyright": ""
+		},
+		{
+			"name": "Wall 4",
+			"author": "Osum Walls",
+			"url": "https://raw.githubusercontent.com/Salocin17/Slup/master/Wall 4.png",
+			"dimensions": "1080 x 1920",
+			"copyright": ""
+		},
+		{
+			"name": "Wall 5",
+			"author": "Osum Walls",
+			"url": "https://raw.githubusercontent.com/Salocin17/Slup/master/Wall 5.png",
+			"dimensions": "1080 x 1920",
+			"copyright": ""
+		},
+		{
+			"name": "Wall 6",
+			"author": "Osum Walls",
+			"url": "https://raw.githubusercontent.com/Salocin17/Slup/master/Wall 6.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": ""
+		},
+		{
+			"name": "Wall 7",
+			"author": "Osum Walls",
+			"url": "https://raw.githubusercontent.com/Salocin17/Slup/master/Wall 7.JPG",
+			"dimensions": "1381 x 2455",
+			"copyright": ""
+		},
+		{
+			"name": "Wall 8",
+			"author": "Osum Walls",
+			"url": "https://raw.githubusercontent.com/Salocin17/Slup/master/Wall 8.jpg",
+			"dimensions": "1620 x 2880",
+			"copyright": ""
+		},
+		{
+			"name": "Wall 9",
+			"author": "Osum Walls",
+			"url": "https://raw.githubusercontent.com/Salocin17/Slup/master/Wall 9.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": ""
+		}
+	]
+}
